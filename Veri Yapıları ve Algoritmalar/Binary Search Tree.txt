@@ -1,0 +1,8 @@
+1-> root 7 dir. Solunda 5 sağında 8 bulunur.
+2-> 5 in solunda 1, sağında 6 bulunur.
+3-> 1 in solunda 0, sağında 3 bulunur.
+4-> 0 ın salı ve solu null.
+5-> 3 ün sağında 2 solunda 4 bulunur.
+6-> 2 ve 4 in sağı ve solu nulldır.
+7-> 8 in sağında 9 solu nulldır.
+8-> 9 un sağı ve solu nulldır.
